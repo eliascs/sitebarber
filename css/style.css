@@ -130,6 +130,8 @@ header .navbar.navbar-light .nav-link.active {
 }
 
 .site-hero.overlay {
+  background-size: cover;
+  background-position: right top;
   position: relative;
 }
 
